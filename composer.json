@@ -1,0 +1,21 @@
+{
+    "name": "difanhasnur/demo-composer",
+    "description": "Demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fundayicube\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "difanhasnur",
+            "email": "fandi.meylwan@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
